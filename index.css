@@ -1,0 +1,26 @@
+body{
+    padding: 500px;
+    background:rgb(219, 216, 216);
+}
+div{
+    padding: 50px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto; 
+
+}
+form{
+    margin-top: -400px;
+    border: 2px solid;
+    padding: 3px;
+    background: rgb(203, 203, 209); 
+    border-radius: 15px;
+}
+input:not(:placeholder-shown) {
+    border-color: rgb(55, 54, 56);
+  }
+  
+
+  #Feliz{
+    margin-left: 60px;
+  }
